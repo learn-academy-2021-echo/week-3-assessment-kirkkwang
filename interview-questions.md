@@ -60,4 +60,4 @@ console.log(anonFunc()); //--> Anonymous function
 
 4. Object-oriented programming: Object-oriented programming (OOP) is a programming paradigm that organizes its design around data, or objects, rather than functions and logic. OOP is well-suited for programs that are large, complex and actively updated or maintained. The structure of OOP is focused around classes, objects, methods, and attributes. The four main principles of OOP are encapsulation, abstraction, inheritance, and polymorphism.
 
-5. Ruby: An interpreted general purpose programming language developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan. It supports many programming paradigms, including procedural, object-oriented, and functional programming.
+5. Ruby: An interpreted general purpose programming language developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan. It supports many programming paradigms, including procedural, object-oriented, and functional programming. Ruby is the core language of the popular backend framework Rails.
